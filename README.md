@@ -1,2 +1,0 @@
-# TestStepic
-Test Stepic
